@@ -1,4 +1,4 @@
-# login-acction
+# login-action
 <?php
 include 'config.php';
 
